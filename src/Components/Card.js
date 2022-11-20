@@ -137,19 +137,19 @@ export default function Card({ pin, setNewPins }) {
 						showFirstButton
 						showLastButton
 					/>
-					<h5 className='card-by'>Marker createdBy : {pin.createdBy}</h5>
+					<h5 className='card-by'>Clipped By {pin.createdBy}</h5>
 					<div className='func-btns'>
 						<button
 							type='submit'
 							className='card-add-review-button'
 							onClick={handleClick}>
-							GIVE A REVIEW
+							Give A Review
 						</button>
 						<button
 							type='submit'
 							className='card-delete-button'
 							onClick={handleDelete}>
-							{deletingPin ? "REMOVING MARKER" : "REMOVE MARKER"}
+							{deletingPin ? "REMOVING MARKER" : "Remove Marker"}
 						</button>
 					</div>
 					{Object.keys(errors).length > 0 && (
@@ -208,4 +208,3 @@ const DELETE_MARKER = gql`
 		}
 	}
 `;
-Footer

@@ -9,7 +9,7 @@ import React from "react";
 import App from "./App";
 
 const httpLink = createHttpLink({
-	uri: "https://trip-clip-app.herokuapp.com/",
+	uri: "https://stormy-shelf-38329.herokuapp.com/",
 });
 
 const authLink = setContext(() => {

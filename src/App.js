@@ -1,12 +1,12 @@
 import "./App.css";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import { AuthProvider } from "./Context/auth";
-import Home from "./Pages/Home";
+import Home from "./Page/Home";
 import Navbar from "./Components/Navbar";
 import AuthRoute from "./Utils/authRoute";
 import Map from "./Components/Map";
-import Login from "./Pages/Login";
-import Register from "./Pages/Register";
+import Login from "./Page/Login";
+import Register from "./Page/Register";
 
 function App() {
 	return (

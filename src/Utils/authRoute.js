@@ -14,4 +14,3 @@ export default function AuthRoute({ component: Component, ...rest }) {
 		/>
 	);
 }
-Footer

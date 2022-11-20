@@ -13,7 +13,7 @@
 }
 
 .tile-container {
-	background-color:  #d4c7b0;
+	background-color: #d4c7b0;
 	display: flex;
 	flex-direction: column;
 	border-radius: 10px;
@@ -33,6 +33,7 @@
 	padding-top: 10px;
 	font-family: 'Playfair Display', serif;
 	color: #6B705C;
+	
 }
 
 

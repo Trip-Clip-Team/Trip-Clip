@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <div className="navbar">
       <Link to="/" className="home-link">
-        <div className="logo">TRAVEL MAP</div>
+        <div className="logo">TRIP CLIP</div>
       </Link>
       <div className="button-container">
         {user ? (

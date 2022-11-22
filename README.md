@@ -19,8 +19,9 @@ Like to travel but not sure where or you want to see other people experience abo
 <br>
 Trip clip is fun and interactive app that helps people keep they travel journey along with helping other decide what destinations to visit based on the reviews and comments. 
 <br>
+![](./Readmepcs/Home%20Page.png)
 
-
+![](./Readmepcs/Map%20View.png)
 
 ## Installation
 From Git Hub repository click CODE box, select SSH and copy the repository to your clipboard. In your command-line navigate to the folder you want to hold the repository. When cloning is completed open th VS code by typing 'code .' in your terminal. After that you will need to open terminal in your VS and create package.json by typing 'npm i' in your terminal and  'npm start'
@@ -62,14 +63,13 @@ Lori, Jen amd Asha
 ## Members
 Adriana Villegas
 <br>
-[GitHub](https://github.comAdriana1013 )
+[GitHub](https://github.com/Adriana1013)
 <br>
 [Email: villegas.a102@gmail.com](mailto:villegas.a102@gmail.com)
 <br>
 Alan Hanna
 <br>
 [GitHub](https://github.com/ahanna2)
-<br>
 <br>
 [Email: alanjalil2@gmail.com](mailto:alanjalil2@gmail.com)
 <br>

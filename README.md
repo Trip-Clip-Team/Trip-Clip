@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Trip Clip
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DEPLOYED APP
+[Trip-Clip]https://trip-clip.herokuapp.com/
 
-## Available Scripts
+## Presentation
+[Presentation]https://docs.google.com/presentation/d/18kKDvU4YvqJYk6seRM8Ui_ux15nkkUU7bOqijoq2ZmY/edit#slide=id.g19bcb62a87d_6_169
 
-In the project directory, you can run:
+## Table of Contents:
+  1. [Description](#Description)
+  2. [Installation](#Installation)
+  3. [Technology Used](#TechnologyUsed)
+  4. [Credits](#Credits)
+  5. [Members](#Members)
+  6. [Questions](#Questions) 
 
-### `npm start`
+## Description
+Like to travel but not sure where or you want to see other people experience about the place you planing to visit ?
+<br>
+Trip clip is fun and interactive app that helps people keep they travel journey along with helping other decide what destinations to visit based on the reviews and comments. 
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Installation
+From Git Hub repository click CODE box, select SSH and copy the repository to your clipboard. In your command-line navigate to the folder you want to hold the repository. When cloning is completed open th VS code by typing 'code .' in your terminal. After that you will need to open terminal in your VS and create package.json by typing 'npm i' in your terminal and  'npm start'
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## TechnologyUsed
+HTML 
+<br>
+CSS 
+<br>
+JavaScript
+<br>
+Node.js
+<br>
+Express
+<br>
+MongoDB 
+<br>
+Mongoose
+<br>
+GraphQL
+<br>
+Apollo
+<br>
+Bcrypt
+<br>
+ReactJS
+<br>
+JWT
 
-### `npm run build`
+## Credits
+MapBox https://www.mapbox.com/
+<br>
+https://www.youtube.com/watch?v=9oEQvI7K-rA
+<br>
+As always Stack Overflow and 
+<br>
+Lori, Jen amd Asha
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Members
+Adriana Villegas
+<br>
+[GitHub](https://github.comAdriana1013 )
+<br>
+[Email: villegas.a102@gmail.com](mailto:villegas.a102@gmail.com)
+<br>
+Alan Hanna
+<br>
+[GitHub](https://github.com/ahanna2)
+<br>
+<br>
+[Email: alanjalil2@gmail.com](mailto:alanjalil2@gmail.com)
+<br>
+Jelena Tomic
+<br>
+[GitHub](https://github.com/JelenaTomic)
+<br>
+[Email: tomic.elena09@gmail.com](mailto:tomic.elena09@gmail.com)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

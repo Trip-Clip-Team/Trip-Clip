@@ -1,10 +1,10 @@
 # Trip Clip
 
 ## DEPLOYED APP
-[Trip-Clip]https://trip-clip.herokuapp.com/
+[Trip-Clip](https://trip-clip.herokuapp.com/)
 
 ## Presentation
-[Presentation]https://docs.google.com/presentation/d/18kKDvU4YvqJYk6seRM8Ui_ux15nkkUU7bOqijoq2ZmY/edit#slide=id.g19bcb62a87d_6_169
+[Presentation](https://docs.google.com/presentation/d/18kKDvU4YvqJYk6seRM8Ui_ux15nkkUU7bOqijoq2ZmY/edit#slide=id.g19bcb62a87d_6_169)
 
 ## Table of Contents:
   1. [Description](#Description)
@@ -12,7 +12,7 @@
   3. [Technology Used](#TechnologyUsed)
   4. [Credits](#Credits)
   5. [Members](#Members)
-  6. [Questions](#Questions) 
+
 
 ## Description
 Like to travel but not sure where or you want to see other people experience about the place you planing to visit ?

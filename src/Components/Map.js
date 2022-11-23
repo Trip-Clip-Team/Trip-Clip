@@ -52,7 +52,7 @@ export default function Map() {
 				width='100vw'
 				height='100vh'
 				transitionDuration='200'
-				mapboxApiAccessToken={  "pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA"}
+				mapboxApiAccessToken={  process.env.ACCESS_TOKEN}
 			
 				onViewportChange={(viewport) => setViewport(viewport)}
 				mapStyle='mapbox://styles/alanhanna/clanagqx2000215p7ejfm6ebm'

@@ -9,7 +9,7 @@ import React from "react";
 import App from "./App";
 
 const httpLink = createHttpLink({
-	uri: "https://stormy-shelf-38329.herokuapp.com/",
+	uri: process.env.URI_HEROKU,
 });
 
 const authLink = setContext(() => {
